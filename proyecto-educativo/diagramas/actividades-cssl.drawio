@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="actividades-cssl" version="24.7.17">
+  <diagram id="act1" name="1 · EscrituraCuentoColectivo">
+    <mxGraphModel dx="1600" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="act1-c1" value="&lt;font style=&quot;font-size:9px;letter-spacing:1.5px&quot; color=&quot;#9FB6CE&quot;&gt;ACTIVIDAD 1 DE 3&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:22px&quot;&gt;&lt;b&gt;EscrituraCuentoColectivo&lt;/b&gt;&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#0F2B46;strokeColor=none;fontColor=#FFFFFF;fontFamily=Segoe UI;align=left;spacingLeft=18;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="20.0" width="1504.0" height="60.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c2" value="SINCRÓNICA" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#2E8B57;strokeColor=none;fontColor=#FFFFFF;fontFamily=Segoe UI;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1364.0" y="37.0" width="170.0" height="26.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c3" value="Redacción por turnos y construcción de tramas grupales en tiempo real." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#4A5568;fontSize=12.5;fontFamily=Segoe UI;align=left;spacingLeft=20;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="88.0" width="1504.0" height="22.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c4" value="HERRAMIENTAS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=10;fontStyle=1;fontFamily=Segoe UI;align=left;spacingLeft=20;fontColor=#2F6FBA;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="128.0" width="300.0" height="16.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c5" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;EditorTextoSincronico&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;Escritura concurrente con cursores identificatorios&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#EAF1FB;strokeColor=#2F6FBA;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="152.0" width="358.0" height="90.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c6" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;AudioconferenciaGrupal&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;Canal de voz permanente de la sesión&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#EAF1FB;strokeColor=#2F6FBA;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="430.0" y="152.0" width="358.0" height="90.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c7" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;PizarraNotasAdhesivas&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;Acuerdos e ideas visibles para todo el grupo&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#EAF1FB;strokeColor=#2F6FBA;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="812.0" y="152.0" width="358.0" height="90.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c8" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;ChatGeneral&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;Coordinación escrita y enlaces de referencia&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#EAF1FB;strokeColor=#2F6FBA;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1194.0" y="152.0" width="358.0" height="90.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c9" value="&lt;font style=&quot;font-size:9px;letter-spacing:1.5px&quot; color=&quot;#9FB6CE&quot;&gt;PROTOCOLO DE COLABORACIÓN&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:15px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;b&gt;Preparación → Turnos de escritura → Revisión colectiva → Cierre&lt;/b&gt;&lt;/font&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#0F2B46;strokeColor=none;fontColor=#FFFFFF;fontFamily=Segoe UI;align=center;spacingLeft=16;spacingRight=16;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="420.0" y="330.0" width="760.0" height="120.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c10" value="ROLES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=10;fontStyle=1;fontFamily=Segoe UI;align=left;spacingLeft=20;fontColor=#7B3FA0;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="538.0" width="300.0" height="16.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c11" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;EscritorEnTurno&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Escribe el fragmento asignado&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Cede el turno al terminar&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:9.5px&quot; color=&quot;#7B3FA0&quot;&gt;opera con EditorTextoSincronico&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F3EBF8;strokeColor=#7B3FA0;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="562.0" width="358.0" height="132.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c12" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;CoAutor&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Propone continuaciones de la trama&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Corrige sobre el manuscrito&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:9.5px&quot; color=&quot;#7B3FA0&quot;&gt;opera con EditorTextoSincronico&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F3EBF8;strokeColor=#7B3FA0;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="430.0" y="562.0" width="358.0" height="132.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c13" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;Moderador&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Habilita y ordena los turnos&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Cierra la ronda de escritura&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:9.5px&quot; color=&quot;#7B3FA0&quot;&gt;opera con PizarraNotasAdhesivas&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F3EBF8;strokeColor=#7B3FA0;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="812.0" y="562.0" width="358.0" height="132.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c14" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;LectorCrítico&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Lee el texto en vivo&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Comenta acuerdos en la pizarra&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:9.5px&quot; color=&quot;#7B3FA0&quot;&gt;opera con ChatGeneral&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F3EBF8;strokeColor=#7B3FA0;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1194.0" y="562.0" width="358.0" height="132.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-e15" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#2F6FBA;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act1-c9" target="act1-c5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-e16" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#2F6FBA;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act1-c9" target="act1-c6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-e17" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#2F6FBA;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act1-c9" target="act1-c7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-e18" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#2F6FBA;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act1-c9" target="act1-c8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-e19" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#7B3FA0;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act1-c11" target="act1-c9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-e20" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#7B3FA0;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act1-c12" target="act1-c9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-e21" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#7B3FA0;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act1-c13" target="act1-c9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-e22" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#7B3FA0;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act1-c14" target="act1-c9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c23" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#F7F8FA;strokeColor=#D5DBE3;fontFamily=Segoe UI;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="722.0" width="1504.0" height="64.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c24" value="TRANSICIONES DE ROL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=9;fontStyle=1;fontFamily=Segoe UI;align=left;spacingLeft=16;fontColor=#7B3FA0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="731.0" width="1504.0" height="14.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c25" value="EscritorEnTurno → CoAutor al ceder el turno&amp;nbsp; · &amp;nbsp;CoAutor → EscritorEnTurno en la ronda siguiente&amp;nbsp; · &amp;nbsp;Moderador: rota por sorteo entre rondas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Segoe UI;fontSize=10.5;fontColor=#3D4A57;align=left;spacingLeft=16;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="745.0" width="1472.0" height="34.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c26" value="&lt;font color=&quot;#7B3FA0&quot;&gt;&lt;b&gt;Rol → Actividad&lt;/b&gt;&lt;/font&gt;: participa &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#2F6FBA&quot;&gt;&lt;b&gt;Actividad → Herramienta&lt;/b&gt;&lt;/font&gt;: usa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Segoe UI;fontSize=10;fontColor=#5A6672;align=center;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="796.0" width="1504.0" height="20.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act1-c27" value="Roles derivados aplicando el metamodelo CSSL · Fuente: workspaces.md" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Segoe UI;fontSize=8.5;fontColor=#8A96A3;align=right;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="848.0" width="1504.0" height="18.0" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="act2" name="2 · SimulacionQuimicaActiva">
+    <mxGraphModel dx="1600" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="act2-c1" value="&lt;font style=&quot;font-size:9px;letter-spacing:1.5px&quot; color=&quot;#9FB6CE&quot;&gt;ACTIVIDAD 2 DE 3&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:22px&quot;&gt;&lt;b&gt;SimulacionQuimicaActiva&lt;/b&gt;&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#0F2B46;strokeColor=none;fontColor=#FFFFFF;fontFamily=Segoe UI;align=left;spacingLeft=18;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="20.0" width="1504.0" height="60.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c2" value="SINCRÓNICA" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#2E8B57;strokeColor=none;fontColor=#FFFFFF;fontFamily=Segoe UI;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1364.0" y="37.0" width="170.0" height="26.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c3" value="Manipulación de compuestos y observación de reacciones, sin riesgo físico." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#4A5568;fontSize=12.5;fontFamily=Segoe UI;align=left;spacingLeft=20;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="88.0" width="1504.0" height="22.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c4" value="HERRAMIENTAS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=10;fontStyle=1;fontFamily=Segoe UI;align=left;spacingLeft=20;fontColor=#2F6FBA;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="128.0" width="300.0" height="16.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c5" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;SimuladorQuimico3DMultiusuario&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;Laboratorio 3D colaborativo en tiempo real&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#EAF1FB;strokeColor=#2F6FBA;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="86.0" y="152.0" width="460.0" height="90.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c6" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;CanalVoIPHighFidelity&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;Audio de baja latencia durante el ensayo&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#EAF1FB;strokeColor=#2F6FBA;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="570.0" y="152.0" width="460.0" height="90.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c7" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;RepositorioArchivosIndexado&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;Persistencia de resultados al cierre&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#EAF1FB;strokeColor=#2F6FBA;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1054.0" y="152.0" width="460.0" height="90.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c8" value="&lt;font style=&quot;font-size:9px;letter-spacing:1.5px&quot; color=&quot;#9FB6CE&quot;&gt;PROTOCOLO DE COLABORACIÓN&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:15px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;b&gt;Briefing → Ensayo → Observación → Registro → Cierre&lt;/b&gt;&lt;/font&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#0F2B46;strokeColor=none;fontColor=#FFFFFF;fontFamily=Segoe UI;align=center;spacingLeft=16;spacingRight=16;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="420.0" y="330.0" width="760.0" height="120.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c9" value="ROLES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=10;fontStyle=1;fontFamily=Segoe UI;align=left;spacingLeft=20;fontColor=#7B3FA0;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="538.0" width="300.0" height="16.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c10" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;OperadorDeCompuestos&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Dosifica reactivos&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Ejecuta la reacción&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:9.5px&quot; color=&quot;#7B3FA0&quot;&gt;opera con SimuladorQuimico3DMultiusuario&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F3EBF8;strokeColor=#7B3FA0;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="562.0" width="358.0" height="132.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c11" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;ObservadorCientífico&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Registra variables y anomalías&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Contrasta con el marco teórico&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:9.5px&quot; color=&quot;#7B3FA0&quot;&gt;opera con CanalVoIPHighFidelity&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F3EBF8;strokeColor=#7B3FA0;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="430.0" y="562.0" width="358.0" height="132.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c12" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;Facilitador&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Guía el protocolo del ensayo&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Valida el resultado&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:9.5px&quot; color=&quot;#7B3FA0&quot;&gt;opera con CanalVoIPHighFidelity&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F3EBF8;strokeColor=#7B3FA0;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="812.0" y="562.0" width="358.0" height="132.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c13" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;AuditorDeSeguridad&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Verifica límites de exposición&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Detiene la simulación ante desvío&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:9.5px&quot; color=&quot;#7B3FA0&quot;&gt;opera con SimuladorQuimico3DMultiusuario&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F3EBF8;strokeColor=#7B3FA0;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1194.0" y="562.0" width="358.0" height="132.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-e14" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#2F6FBA;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act2-c8" target="act2-c5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-e15" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#2F6FBA;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act2-c8" target="act2-c6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-e16" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#2F6FBA;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act2-c8" target="act2-c7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-e17" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#7B3FA0;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act2-c10" target="act2-c8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-e18" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#7B3FA0;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act2-c11" target="act2-c8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-e19" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#7B3FA0;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act2-c12" target="act2-c8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-e20" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#7B3FA0;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act2-c13" target="act2-c8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c21" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#F7F8FA;strokeColor=#D5DBE3;fontFamily=Segoe UI;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="722.0" width="1504.0" height="64.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c22" value="TRANSICIONES DE ROL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=9;fontStyle=1;fontFamily=Segoe UI;align=left;spacingLeft=16;fontColor=#7B3FA0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="731.0" width="1504.0" height="14.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c23" value="Operador ⇄ Observador en cada ensayo&amp;nbsp; · &amp;nbsp;Facilitador habilita el ensayo siguiente&amp;nbsp; · &amp;nbsp;Auditor interviene ante desvío de parámetros" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Segoe UI;fontSize=10.5;fontColor=#3D4A57;align=left;spacingLeft=16;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="745.0" width="1472.0" height="34.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c24" value="&lt;font color=&quot;#7B3FA0&quot;&gt;&lt;b&gt;Rol → Actividad&lt;/b&gt;&lt;/font&gt;: participa &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#2F6FBA&quot;&gt;&lt;b&gt;Actividad → Herramienta&lt;/b&gt;&lt;/font&gt;: usa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Segoe UI;fontSize=10;fontColor=#5A6672;align=center;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="796.0" width="1504.0" height="20.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act2-c25" value="Roles derivados aplicando el metamodelo CSSL · Fuente: workspaces.md" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Segoe UI;fontSize=8.5;fontColor=#8A96A3;align=right;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="848.0" width="1504.0" height="18.0" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="act3" name="3 · DisenoProyectoInvestigacion">
+    <mxGraphModel dx="1600" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="act3-c1" value="&lt;font style=&quot;font-size:9px;letter-spacing:1.5px&quot; color=&quot;#9FB6CE&quot;&gt;ACTIVIDAD 3 DE 3&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:22px&quot;&gt;&lt;b&gt;DisenoProyectoInvestigacion&lt;/b&gt;&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#0F2B46;strokeColor=none;fontColor=#FFFFFF;fontFamily=Segoe UI;align=left;spacingLeft=18;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="20.0" width="1504.0" height="60.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c2" value="ASINCRÓNICA" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#C46A12;strokeColor=none;fontColor=#FFFFFF;fontFamily=Segoe UI;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1364.0" y="37.0" width="170.0" height="26.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c3" value="Hipótesis, marco teórico e informes de laboratorio, sin coincidencia temporal." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#4A5568;fontSize=12.5;fontFamily=Segoe UI;align=left;spacingLeft=20;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="88.0" width="1504.0" height="22.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c4" value="HERRAMIENTAS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=10;fontStyle=1;fontFamily=Segoe UI;align=left;spacingLeft=20;fontColor=#2F6FBA;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="128.0" width="300.0" height="16.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c5" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;RepositorioArchivosIndexado&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;Datos, versiones y evidencia indexada&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#EAF1FB;strokeColor=#2F6FBA;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="328.0" y="152.0" width="460.0" height="90.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c6" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;ForoHilosCientificos&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;Discusión por hilos y revisión diferida&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#EAF1FB;strokeColor=#2F6FBA;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="812.0" y="152.0" width="460.0" height="90.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c7" value="&lt;font style=&quot;font-size:9px;letter-spacing:1.5px&quot; color=&quot;#9FB6CE&quot;&gt;PROTOCOLO DE COLABORACIÓN&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:15px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;b&gt;Pregunta → Hipótesis → Borrador → Revisión → Informe final&lt;/b&gt;&lt;/font&gt;" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#0F2B46;strokeColor=none;fontColor=#FFFFFF;fontFamily=Segoe UI;align=center;spacingLeft=16;spacingRight=16;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="420.0" y="330.0" width="760.0" height="120.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c8" value="ROLES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=10;fontStyle=1;fontFamily=Segoe UI;align=left;spacingLeft=20;fontColor=#7B3FA0;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="538.0" width="300.0" height="16.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c9" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;InvestigadorPrincipal&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Define pregunta y plan de trabajo&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Aprueba el informe final&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:9.5px&quot; color=&quot;#7B3FA0&quot;&gt;opera con ForoHilosCientificos&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F3EBF8;strokeColor=#7B3FA0;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="562.0" width="358.0" height="132.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c10" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;RedactorDeHipótesis&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Escribe hipótesis y marco teórico&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Publica borradores&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:9.5px&quot; color=&quot;#7B3FA0&quot;&gt;opera con RepositorioArchivosIndexado&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F3EBF8;strokeColor=#7B3FA0;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="430.0" y="562.0" width="358.0" height="132.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c11" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;RevisorDePares&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Comenta borradores en el foro&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Devuelve observaciones&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:9.5px&quot; color=&quot;#7B3FA0&quot;&gt;opera con ForoHilosCientificos&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F3EBF8;strokeColor=#7B3FA0;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="812.0" y="562.0" width="358.0" height="132.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c12" value="&lt;font style=&quot;font-size:13.5px&quot;&gt;&lt;b&gt;CuradorDeEvidencia&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Indexa y versiona los datos&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:10.5px&quot; color=&quot;#5A6672&quot;&gt;· Mantiene la trazabilidad&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size:9.5px&quot; color=&quot;#7B3FA0&quot;&gt;opera con RepositorioArchivosIndexado&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F3EBF8;strokeColor=#7B3FA0;strokeWidth=1.2;fontFamily=Segoe UI;fontColor=#1F2933;align=left;spacingLeft=12;spacingRight=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1194.0" y="562.0" width="358.0" height="132.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-e13" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#2F6FBA;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act3-c7" target="act3-c5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-e14" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#2F6FBA;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act3-c7" target="act3-c6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-e15" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#7B3FA0;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act3-c9" target="act3-c7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-e16" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#7B3FA0;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act3-c10" target="act3-c7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-e17" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#7B3FA0;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act3-c11" target="act3-c7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-e18" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;endSize=7;strokeColor=#7B3FA0;strokeWidth=1.5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="act3-c12" target="act3-c7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c19" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#F7F8FA;strokeColor=#D5DBE3;fontFamily=Segoe UI;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="722.0" width="1504.0" height="64.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c20" value="TRANSICIONES DE ROL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=9;fontStyle=1;fontFamily=Segoe UI;align=left;spacingLeft=16;fontColor=#7B3FA0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="731.0" width="1504.0" height="14.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c21" value="Investigador → Redactor al cerrar el plan&amp;nbsp; · &amp;nbsp;Redactor → Revisor al publicar borrador&amp;nbsp; · &amp;nbsp;Revisor devuelve a Redactor con observaciones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Segoe UI;fontSize=10.5;fontColor=#3D4A57;align=left;spacingLeft=16;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="745.0" width="1472.0" height="34.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c22" value="&lt;font color=&quot;#7B3FA0&quot;&gt;&lt;b&gt;Rol → Actividad&lt;/b&gt;&lt;/font&gt;: participa &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#2F6FBA&quot;&gt;&lt;b&gt;Actividad → Herramienta&lt;/b&gt;&lt;/font&gt;: usa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Segoe UI;fontSize=10;fontColor=#5A6672;align=center;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="796.0" width="1504.0" height="20.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="act3-c23" value="Roles derivados aplicando el metamodelo CSSL · Fuente: workspaces.md" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Segoe UI;fontSize=8.5;fontColor=#8A96A3;align=right;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="48.0" y="848.0" width="1504.0" height="18.0" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
