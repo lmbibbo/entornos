@@ -15,13 +15,16 @@ entornos/
 ├─ agents.md                     # metamodelo CSSL y algoritmo de diseño
 ├─ awareness.md                  # catálogo de elementos de awareness (estándar)
 ├─ actividad-template.drawio      # plantilla de una página de actividad
+├─ roles-template.md              # plantilla del paso 4: roles y operaciones
 ├─ oficina/                      # proyecto: agencia creativa
 │  ├─ oficina.md                 # spec con 4 workspaces completos
-│  ├─ roles.md                   # roles y operaciones por herramienta (paso 4)
+│  ├─ roles.md                   # roles, operaciones, transiciones y protocolos (pasos 4 y 7)
+│  ├─ proceso.md                 # proceso: disparadores, estados y 15 transiciones PR- (paso 6)
 │  └─ diagramas/
 │     ├─ 01-mapa-workspaces.drawio
 │     ├─ 02-actividades.drawio
-│     └─ 03-actividad-estructura.drawio
+│     ├─ 03-proceso.drawio
+│     └─ 04-protocolos.drawio
 ├─ proyecto-educativo/           # proyecto: institución educativa
 │  ├─ educativo.md               # spec con 4 workspaces completos
 │  └─ diagramas/
@@ -38,18 +41,24 @@ entornos/
 
 | Archivo | Qué contiene |
 | :--- | :--- |
-| [`agents.md`](agents.md) | Metamodelo CSSL: glosario de constructos, matriz de relaciones, reglas de diseño y algoritmo de generación en 5 pasos. |
+| [`agents.md`](agents.md) | Metamodelo CSSL: glosario de constructos, matriz de relaciones, reglas de diseño y algoritmo de generación en 7 pasos. |
 | [`awareness.md`](awareness.md) | Catálogo de los 19 elementos de awareness con su pregunta relevante, criterio de búsqueda y plantilla de declaración. |
+| [`roles-template.md`](roles-template.md) | Plantilla del paso 4: catálogo de roles, asignación por actividad, matriz de operaciones, transiciones y checklist de aceptación. |
 
 `agents.md` define **cómo se especifica**; `awareness.md` es el catálogo que se
-consulta al completar el campo *Awareness* de cada ficha.
+consulta al completar el campo *Awareness* de cada ficha. `roles-template.md` es la
+plantilla que se copia a `<proyecto>/roles.md` en el paso 4.
 
 ### Proyectos
 
 | Proyecto | Dominio | Spec | Estado |
 | :--- | :--- | :--- | :--- |
-| [`oficina/`](oficina/) | Agencia creativa | [`oficina.md`](oficina/oficina.md) · [`roles.md`](oficina/roles.md) | Completo: 4 workspaces, 8 sesiones, 20 herramientas declaradas, 9 roles, 28 operaciones, 12 objetos. |
-| [`proyecto-educativo/`](proyecto-educativo/) | Institución educativa | [`educativo.md`](proyecto-educativo/educativo.md) | Completo: 4 workspaces, 8 sesiones, 15 herramientas. |
+| [`oficina/`](oficina/) | Agencia creativa | [`oficina.md`](oficina/oficina.md) · [`roles.md`](oficina/roles.md) · [`proceso.md`](oficina/proceso.md) | Pasos 1–7 completos: 4 workspaces, 8 sesiones, 20 herramientas declaradas (15 únicas), 9 roles, 77 operaciones atómicas, 12 objetos, 26 declaraciones de awareness, 15 transiciones `PR-` y 50 `PT-`. |
+| [`proyecto-educativo/`](proyecto-educativo/) | Institución educativa | [`educativo.md`](proyecto-educativo/educativo.md) | Parcial: 4 workspaces, 8 sesiones, 15 herramientas; falta `roles.md` (paso 4) y awareness (paso 5). |
+
+Cada archivo cubre una capa: `oficina.md` describe espacios y sesiones; `roles.md` es la
+fuente única de roles, operaciones, handoffs y protocolos; `proceso.md` es la fuente única
+del proceso y explica qué operación de qué rol dispara cada transición.
 
 ---
 
@@ -59,7 +68,8 @@ consulta al completar el campo *Awareness* de cada ficha.
 | :--- | :--- | :--- |
 | `oficina/diagramas/01-mapa-workspaces.drawio` | Mapa por espacios (Oficina): 4 columnas con sesiones, herramientas y objetos, una por workspace. | 1 |
 | `oficina/diagramas/02-actividades.drawio` | Una página por actividad (Oficina): workspace, herramientas, actividad con protocolo y objetos, y roles con multiplicidad sobre la capa punteada de awareness. | 8 |
-| `oficina/diagramas/03-actividad-estructura.drawio` | Primera muestra de esa notación, con una sola actividad. | 1 |
+| `oficina/diagramas/03-proceso.drawio` | Proceso colaborativo (Oficina): 8 actividades, 3 decisiones, inicio y fin, con las 15 transiciones `PR-` y los retornos punteados; página 2 con la tabla de referencia `PR` · rol → objeto — operación. | 2 |
+| `oficina/diagramas/04-protocolos.drawio` | Protocolo por actividad (Oficina): una página por actividad con estados `(Rol) Herramienta->operación()`, decisión de retorno y las 50 transiciones `PT-`. | 8 |
 | `proyecto-educativo/diagramas/workspaces-diagrama.drawio` | Mapa por espacios: cada workspace en una columna, con sesiones, herramientas y objetos. | 1 |
 | `proyecto-educativo/diagramas/actividades-cssl.drawio` | Una página por actividad: herramientas arriba, roles abajo y relaciones como flechas. | 3 |
 
@@ -70,7 +80,10 @@ Las ocho actividades de `oficina/diagramas/02-actividades.drawio` siguen la plan
 [`actividad-template.drawio`](actividad-template.drawio): workspace como círculo,
 herramientas en verde, actividad como caja con protocolo y objetos, roles en azul con
 multiplicidad `1` y una capa punteada de awareness que envuelve la escena.
-`03-actividad-estructura` es la muestra de una sola actividad de la que salió la plantilla.
+
+Los diagramas de proceso y protocolo usan las plantillas `Proceso - Base.svg` y
+`Protocolo - Base.svg`: actividades verdes con inicio, fin y decisiones en el proceso;
+estados UML con cuerpo de operaciones y transiciones punteadas en el protocolo.
 
 **Exportación:** lienzo 1600×900 (16:9). SVG para slides, PNG con zoom 200–300% cuando
 el destino no acepta vectores. Se exporta la página completa, no la selección.
@@ -106,18 +119,17 @@ puede editar ni buscar.
 
 1. Leer [`agents.md`](agents.md) para el metamodelo y las reglas de diseño (4 fases, 7 pasos).
 2. Completar las fichas de workspace en la spec del proyecto (orden: workspaces → sesiones → herramientas → roles).
-3. Volcar las operaciones de cada rol por herramienta en `roles.md` del proyecto (paso 4).
-4. Consultar [`awareness.md`](awareness.md) al declarar la capa de awareness de cada espacio o actividad (paso 5).
-5. Generar los diagramas en `diagramas/` y exportarlos.
+3. Volcar roles, asignación por actividad y operaciones en `roles.md` del proyecto (paso 4), usando [`roles-template.md`](roles-template.md) y su checklist.
+4. Declarar awareness de espacio, actividad, proceso y protocolo según [`awareness.md`](awareness.md) (paso 5).
+5. Agregar el proceso (`PR-`) a `proceso.md` y los protocolos (`PT-`) a `roles.md` (pasos 6 y 7), y generar los diagramas en `diagramas/`; exportarlos.
 
 ---
 
 ## Pendientes
 
-**Algoritmo CSSL de Oficina (pasos 5 a 7)**
-- Paso 5: completar la capa de awareness de `CuraduriaReferencias` (no tiene declaración) y dejar explícita la de `BriefingCreativo` (hoy hereda `Presence` del espacio).
-- Paso 6: diagrama de procesos y sección de acciones de proceso en `roles.md`.
-- Paso 7: protocolo por sesión y sección de acciones de protocolo en `roles.md`.
+**Proyecto educativo**
+- Paso 4: agregar el campo `Roles` a las fichas y crear `roles.md` con la plantilla.
+- Pasos 5 a 7: awareness, proceso y protocolo.
 
 **Repositorio**
 - Rehacer las tres plantillas base en draw.io con texto editable y notación consistente.
