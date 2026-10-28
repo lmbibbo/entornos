@@ -197,6 +197,93 @@
         <mxCell id="p1c64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9.0;fontColor=#8C8C8C;align=left;verticalAlign=middle;" value="Fuente: oficina.md · notación tomada de «Estructura Entorno- Base»" vertex="1">
           <mxGeometry height="16" width="780" x="48" y="842" as="geometry" />
         </mxCell>
+        <mxCell id="p1aw1" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="528" width="340" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw1h" value="AWARENESS · ESPACIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="536" width="322" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw1e" value="Density" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="548" width="322" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw1q" value="¿Qué densidad de usuarios hay en la sala?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="563" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw1m" value="Se muestra: Contador en el encabezado del workspace" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw1f" value="Fuente: Presencia agregada por sala" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="604" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw1x" edge="1" parent="1" source="p1aw1" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.5000;exitY=0.0000;exitDx=0;exitDy=0;entryX=0.5000;entryY=1.0000;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p1c8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw2" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="306" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw2h" value="AWARENESS · SESIÓN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="314" width="342" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw2e" value="Presence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="326" width="342" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw2q" value="¿Quiénes están en esta sesión?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="341" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw2m" value="Se muestra: Avatares en la barra de la reunión" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="368" width="342" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw2f" value="Fuente: Presencia de la sesión" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="382" width="342" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw2x" edge="1" parent="1" source="p1aw2" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.2842;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p1c21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw3" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="410" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw3h" value="AWARENESS · SESIÓN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="418" width="342" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw3e" value="Rol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="430" width="342" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw3q" value="¿Qué rol ejerce cada participante?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="445" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw3m" value="Se muestra: Badge de rol junto al avatar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="472" width="342" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw3f" value="Fuente: Asignación de roles.md §2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="486" width="342" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw3x" edge="1" parent="1" source="p1aw3" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.8316;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p1c21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw4" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="514" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw4h" value="AWARENESS · ARTEFACTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="521" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw4e" value="Visibility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="531" width="342" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw4t" value="&lt;b&gt;VideoReunion&lt;/b&gt; → BriefingCampana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="545" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw4q" value="¿Qué parte del brief puede ver el cliente?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="556" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw4m" value="Se muestra: Candado de alcance sobre el brief compartido" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="580" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw4f" value="Fuente: Permisos del cliente sobre BriefingCampana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="592" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p1aw4x" edge="1" parent="1" source="p1aw4" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.8500;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p1c21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
       
@@ -370,6 +457,75 @@
         </mxCell>
         <mxCell id="p2c55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9.0;fontColor=#8C8C8C;align=left;verticalAlign=middle;" value="Fuente: oficina.md · notación tomada de «Estructura Entorno- Base»" vertex="1">
           <mxGeometry height="16" width="780" x="48" y="842" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw1" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="528" width="340" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw1h" value="AWARENESS · ESPACIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="536" width="322" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw1e" value="Density" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="548" width="322" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw1q" value="¿Qué densidad de usuarios hay en la sala?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="563" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw1m" value="Se muestra: Contador en el encabezado del workspace" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw1f" value="Fuente: Presencia agregada por sala" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="604" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw1x" edge="1" parent="1" source="p2aw1" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.5000;exitY=0.0000;exitDx=0;exitDy=0;entryX=0.5000;entryY=1.0000;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p2c8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw2" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="306" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw2h" value="AWARENESS · ARTEFACTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="313" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw2e" value="Changes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="323" width="342" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw2t" value="&lt;b&gt;TableroReferencias&lt;/b&gt; → TableroMoodboard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="337" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw2q" value="¿Qué referencias cambiaron desde mi última visita?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="348" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw2m" value="Se muestra: Resaltado de tarjetas nuevas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="372" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw2f" value="Fuente: Metadatos del tablero" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="384" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw2x" edge="1" parent="1" source="p2aw2" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.2842;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p2c17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw3" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="410" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw3h" value="AWARENESS · ARTEFACTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="417" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw3e" value="Objects" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="427" width="342" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw3t" value="&lt;b&gt;TableroReferencias&lt;/b&gt; → TableroMoodboard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="441" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw3q" value="¿En qué estado está el tablero?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="452" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw3m" value="Se muestra: Contador de referencias por territorio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="476" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw3f" value="Fuente: Estado del tablero" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="488" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p2aw3x" edge="1" parent="1" source="p2aw3" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.8316;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p2c17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -572,6 +728,75 @@
         <mxCell id="p3c64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9.0;fontColor=#8C8C8C;align=left;verticalAlign=middle;" value="Fuente: oficina.md · notación tomada de «Estructura Entorno- Base»" vertex="1">
           <mxGeometry height="16" width="780" x="48" y="842" as="geometry" />
         </mxCell>
+        <mxCell id="p3aw1" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="528" width="340" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw1h" value="AWARENESS · ESPACIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="536" width="322" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw1e" value="ActivityLevel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="548" width="322" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw1q" value="¿Qué nivel de actividad tiene el estudio?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="563" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw1m" value="Se muestra: Indicador de actividad en la barra del workspace" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw1f" value="Fuente: Eventos de edición por sesión" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="604" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw1x" edge="1" parent="1" source="p3aw1" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.5000;exitY=0.0000;exitDx=0;exitDy=0;entryX=0.5000;entryY=1.0000;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p3c8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw2" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="306" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw2h" value="AWARENESS · ARTEFACTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="313" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw2e" value="ObjectsUsers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="323" width="342" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw2t" value="&lt;b&gt;EditorGraficoColaborativo&lt;/b&gt; → PiezaGrafica" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="337" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw2q" value="¿Quién está editando qué capa?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="348" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw2m" value="Se muestra: Cursores con nombre sobre el lienzo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="372" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw2f" value="Fuente: Sesión del editor colaborativo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="384" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw2x" edge="1" parent="1" source="p3aw2" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.2842;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p3c21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw3" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="410" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw3h" value="AWARENESS · ARTEFACTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="417" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw3e" value="Rol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="427" width="342" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw3t" value="&lt;b&gt;EditorGraficoColaborativo&lt;/b&gt; → PiezaGrafica · &lt;b&gt;EditorTextoCompartido&lt;/b&gt; → GuionCopy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="441" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw3q" value="¿Quién actúa como diseñador, redactor o motion en cada capa o párrafo?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="452" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw3m" value="Se muestra: Etiqueta de rol en el cursor, la capa y el párrafo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="476" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw3f" value="Fuente: Asignación de roles.md §2 y elemento activo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="488" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p3aw3x" edge="1" parent="1" source="p3aw3" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.8316;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p3c21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
       
@@ -745,6 +970,75 @@
         </mxCell>
         <mxCell id="p4c55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9.0;fontColor=#8C8C8C;align=left;verticalAlign=middle;" value="Fuente: oficina.md · notación tomada de «Estructura Entorno- Base»" vertex="1">
           <mxGeometry height="16" width="780" x="48" y="842" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw1" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="528" width="340" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw1h" value="AWARENESS · ESPACIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="536" width="322" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw1e" value="ActivityLevel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="548" width="322" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw1q" value="¿Qué nivel de actividad tiene el estudio?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="563" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw1m" value="Se muestra: Indicador de actividad en la barra del workspace" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw1f" value="Fuente: Eventos de edición por sesión" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="604" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw1x" edge="1" parent="1" source="p4aw1" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.5000;exitY=0.0000;exitDx=0;exitDy=0;entryX=0.5000;entryY=1.0000;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p4c8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw2" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="306" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw2h" value="AWARENESS · ARTEFACTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="313" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw2e" value="Changes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="323" width="342" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw2t" value="&lt;b&gt;RepositorioVersiones&lt;/b&gt; → PiezaGrafica" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="337" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw2q" value="¿Qué cambió desde la última versión?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="348" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw2m" value="Se muestra: Diff resumido en la lista de versiones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="372" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw2f" value="Fuente: Comparación de versiones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="384" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw2x" edge="1" parent="1" source="p4aw2" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.2842;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p4c17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw3" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="410" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw3h" value="AWARENESS · ARTEFACTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="417" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw3e" value="Objects" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="427" width="342" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw3t" value="&lt;b&gt;RepositorioVersiones&lt;/b&gt; → PiezaGrafica" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="441" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw3q" value="¿Qué versión está publicada y cuál es la vigente?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="452" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw3m" value="Se muestra: Insignia «vigente» en el repositorio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="476" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw3f" value="Fuente: Estado de las versiones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="488" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p4aw3x" edge="1" parent="1" source="p4aw3" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.8316;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p4c17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -935,6 +1229,72 @@
         <mxCell id="p5c60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9.0;fontColor=#8C8C8C;align=left;verticalAlign=middle;" value="Fuente: oficina.md · notación tomada de «Estructura Entorno- Base»" vertex="1">
           <mxGeometry height="16" width="780" x="48" y="842" as="geometry" />
         </mxCell>
+        <mxCell id="p5aw1" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="528" width="340" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw1h" value="AWARENESS · ESPACIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="536" width="322" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw1e" value="PlaceAction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="548" width="322" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw1q" value="¿Qué acción se está haciendo en la sala?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="563" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw1m" value="Se muestra: Etiqueta de estado en la cabecera" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw1f" value="Fuente: Estado de la sesión activa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="604" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw1x" edge="1" parent="1" source="p5aw1" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.5000;exitY=0.0000;exitDx=0;exitDy=0;entryX=0.5000;entryY=1.0000;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p5c8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw2" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="306" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw2h" value="AWARENESS · ARTEFACTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="313" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw2e" value="Changes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="323" width="342" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw2t" value="&lt;b&gt;PizarraAnotaciones&lt;/b&gt; → PiezaEnRevision" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="337" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw2q" value="¿Qué se corrigió desde la última crítica?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="348" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw2m" value="Se muestra: Lista de cambios frente al registro anterior" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="372" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw2f" value="Fuente: Registro de crítica y versiones" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="384" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw2x" edge="1" parent="1" source="p5aw2" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.2842;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p5c21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw3" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="410" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw3h" value="AWARENESS · SESIÓN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="418" width="342" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw3e" value="Rol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="430" width="342" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw3q" value="¿Quién habla como autor y quién como par crítico?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="445" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw3m" value="Se muestra: Turno y badge en la sala" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="472" width="342" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw3f" value="Fuente: Estado del protocolo y asignación" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="486" width="342" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aw3x" edge="1" parent="1" source="p5aw3" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.8316;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p5c21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
       
@@ -1108,6 +1468,75 @@
         </mxCell>
         <mxCell id="p6c55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9.0;fontColor=#8C8C8C;align=left;verticalAlign=middle;" value="Fuente: oficina.md · notación tomada de «Estructura Entorno- Base»" vertex="1">
           <mxGeometry height="16" width="780" x="48" y="842" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw1" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="528" width="340" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw1h" value="AWARENESS · ESPACIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="536" width="322" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw1e" value="PlaceAction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="548" width="322" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw1q" value="¿Qué acción se está haciendo en la sala?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="563" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw1m" value="Se muestra: Etiqueta de estado en la cabecera" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw1f" value="Fuente: Estado de la sesión activa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="604" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw1x" edge="1" parent="1" source="p6aw1" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.5000;exitY=0.0000;exitDx=0;exitDy=0;entryX=0.5000;entryY=1.0000;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p6c8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw2" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="306" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw2h" value="AWARENESS · ARTEFACTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="313" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw2e" value="ObjectHistory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="323" width="342" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw2t" value="&lt;b&gt;VerificadorEntrega&lt;/b&gt; → ChecklistCalidad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="337" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw2q" value="¿Quién hizo cada cambio?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="348" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw2m" value="Se muestra: Historial por ítem del checklist" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="372" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw2f" value="Fuente: Metadatos de la pieza y del checklist" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="384" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw2x" edge="1" parent="1" source="p6aw2" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.2842;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p6c17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw3" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="410" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw3h" value="AWARENESS · ARTEFACTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="417" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw3e" value="Objects" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="427" width="342" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw3t" value="&lt;b&gt;VerificadorEntrega&lt;/b&gt; → ChecklistCalidad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="441" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw3q" value="¿En qué estado está el checklist?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="452" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw3m" value="Se muestra: Semáforo de ítems abiertos y cerrados" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="476" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw3f" value="Fuente: Estado del verificador" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="488" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p6aw3x" edge="1" parent="1" source="p6aw3" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.8316;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p6c17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1298,6 +1727,93 @@
         <mxCell id="p7c60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9.0;fontColor=#8C8C8C;align=left;verticalAlign=middle;" value="Fuente: oficina.md · notación tomada de «Estructura Entorno- Base»" vertex="1">
           <mxGeometry height="16" width="780" x="48" y="842" as="geometry" />
         </mxCell>
+        <mxCell id="p7aw1" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="528" width="340" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw1h" value="AWARENESS · ESPACIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="536" width="322" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw1e" value="UserLocation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="548" width="322" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw1q" value="¿En qué parte del frente está el cliente?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="563" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw1m" value="Se muestra: Mapa de presencia del portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw1f" value="Fuente: Presencia por sesión y portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="604" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw1x" edge="1" parent="1" source="p7aw1" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.5000;exitY=0.0000;exitDx=0;exitDy=0;entryX=0.5000;entryY=1.0000;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p7c8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw2" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="306" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw2h" value="AWARENESS · SESIÓN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="314" width="342" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw2e" value="UserAction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="326" width="342" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw2q" value="¿Qué está haciendo el cliente durante la presentación?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="341" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw2m" value="Se muestra: Indicador de actividad en la sala" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="368" width="342" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw2f" value="Fuente: Eventos del cliente en la reunión" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="382" width="342" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw2x" edge="1" parent="1" source="p7aw2" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.2842;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p7c21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw3" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="410" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw3h" value="AWARENESS · SESIÓN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="418" width="342" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw3e" value="Expectations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="430" width="342" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw3q" value="¿Qué se espera que haga el cliente después de cada objeción?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="445" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw3m" value="Se muestra: Indicador «siguiente paso» en la barra" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="472" width="342" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw3f" value="Fuente: Estado del protocolo y objeciones abiertas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="486" width="342" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw3x" edge="1" parent="1" source="p7aw3" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.8316;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p7c21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw4" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="514" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw4h" value="AWARENESS · ARTEFACTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="521" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw4e" value="Visibility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="531" width="342" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw4t" value="&lt;b&gt;PresentadorSlides&lt;/b&gt; → PropuestaComercial" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="545" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw4q" value="¿Qué parte de la propuesta puede ver el cliente?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="556" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw4m" value="Se muestra: Candado de alcance sobre las láminas presentadas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="580" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw4f" value="Fuente: Permisos del cliente sobre PropuestaComercial" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="592" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p7aw4x" edge="1" parent="1" source="p7aw4" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.8500;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p7c21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
       
@@ -1471,6 +1987,75 @@
         </mxCell>
         <mxCell id="p8c55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9.0;fontColor=#8C8C8C;align=left;verticalAlign=middle;" value="Fuente: oficina.md · notación tomada de «Estructura Entorno- Base»" vertex="1">
           <mxGeometry height="16" width="780" x="48" y="842" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw1" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="528" width="340" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw1h" value="AWARENESS · ESPACIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="536" width="322" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw1e" value="UserLocation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="548" width="322" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw1q" value="¿En qué parte del frente está el cliente?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="563" width="322" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw1m" value="Se muestra: Mapa de presencia del portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw1f" value="Fuente: Presencia por sesión y portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="604" width="322" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw1x" edge="1" parent="1" source="p8aw1" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.5000;exitY=0.0000;exitDx=0;exitDy=0;entryX=0.5000;entryY=1.0000;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p8c8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw2" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="306" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw2h" value="AWARENESS · ARTEFACTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="313" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw2e" value="Visibility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="323" width="342" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw2t" value="&lt;b&gt;PortalCliente&lt;/b&gt; → PropuestaComercial · HiloFeedback · ActaAprobacion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="337" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw2q" value="¿Qué puede ver el cliente?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="348" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw2m" value="Se muestra: Candado y alcance en el portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="372" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw2f" value="Fuente: Permisos del portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="384" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw2x" edge="1" parent="1" source="p8aw2" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.2842;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p8c17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw3" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="950" y="410" width="360" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw3h" value="AWARENESS · ARTEFACTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="417" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw3e" value="ObjectsUsers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="427" width="342" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw3t" value="&lt;b&gt;ComentariosPorHilo&lt;/b&gt; → HiloFeedback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="441" width="342" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw3q" value="¿Quién está leyendo o comentando la pieza?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="960" y="452" width="342" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw3m" value="Se muestra: Avatares en el hilo y en la pieza" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="476" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw3f" value="Fuente: Presencia del portal y comentarios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="960" y="488" width="342" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="p8aw3x" edge="1" parent="1" source="p8aw3" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.8316;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="p8c17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -227,8 +227,26 @@
         <mxCell id="c74" value="Objeto compartido" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Segoe UI;fontSize=9.5;fontColor=#5A6672;align=left;spacingLeft=6;" vertex="1" parent="1">
           <mxGeometry x="430.0" y="838.0" width="150.0" height="28.0" as="geometry"/>
         </mxCell>
-        <mxCell id="c75" value="Fuente: oficina.md · 4 workspaces · 8 sesiones · 20 herramientas declaradas · 12 objetos compartidos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Segoe UI;fontSize=8.5;fontColor=#8A96A3;align=right;spacingRight=4;" vertex="1" parent="1">
+        <mxCell id="c75" value="Fuente: oficina.md · 4 workspaces · 8 sesiones · 20 herramientas declaradas · 12 objetos compartidos · awareness de espacio en la cabecera (detalle: oficina.md §4 y 02-actividades)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Segoe UI;fontSize=8.5;fontColor=#8A96A3;align=right;spacingRight=4;" vertex="1" parent="1">
           <mxGeometry x="48.0" y="868.0" width="1504.0" height="20.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="awm1" value="AWARENESS · Density" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.8;fontColor=#FFFFFF;fontFamily=Segoe UI;fontSize=7.5;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="274.0" y="147.5" width="113.0" height="22.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="awm2" value="AWARENESS · ActivityLevel" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.8;fontColor=#FFFFFF;fontFamily=Segoe UI;fontSize=7.5;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="655.0" y="147.5" width="113.0" height="22.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="awm3" value="AWARENESS · PlaceAction" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.8;fontColor=#FFFFFF;fontFamily=Segoe UI;fontSize=7.5;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1036.0" y="147.5" width="113.0" height="22.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="awm4" value="AWARENESS · UserLocation" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=0.8;fontColor=#FFFFFF;fontFamily=Segoe UI;fontSize=7.5;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1417.0" y="147.5" width="113.0" height="22.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="c76" value="" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0F2B46;strokeWidth=0.9;" vertex="1" parent="1">
+          <mxGeometry x="600.0" y="844.0" width="16.0" height="16.0" as="geometry"/>
+        </mxCell>
+        <mxCell id="c77" value="Awareness de espacio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Segoe UI;fontSize=9.5;fontColor=#5A6672;align=left;spacingLeft=6;" vertex="1" parent="1">
+          <mxGeometry x="616.0" y="838.0" width="180.0" height="28.0" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>

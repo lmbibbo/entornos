@@ -130,6 +130,9 @@ rombo, inicio y fin, las 15 transiciones `PR-` y los retornos en línea punteada
 segunda, «Referencia PR» (1600×900), es la tabla de referencia de las 15 etiquetas: `PR` ·
 etiqueta del arco · tramo · rol → objeto — operación, con el `OP-` que la respalda.
 
+La primera página incluye al pie el panel «Awareness · Proceso» con `UserHistory`,
+`Expectations` y `ActivityLevel`, declarados en [`oficina.md`](oficina.md) §4.
+
 > La tabla de referencia se deriva de §3 y de [`roles.md`](roles.md) §3; si cambia una
 > transición, se corrige la fuente y se actualiza la página. No introduce datos nuevos.
 

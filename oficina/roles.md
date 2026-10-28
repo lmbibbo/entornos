@@ -417,6 +417,6 @@ disparador, guarda y efecto. Los handoffs de ámbito `protocolo` (`TR-03`, `TR-0
 
 - **Pasos 1–7 completos.** Workspaces, sesiones, roles, operaciones, transiciones, awareness, proceso y protocolo están declarados y validados.
 - **Archivos por capa.** [`roles.md`](roles.md) para roles, operaciones, handoffs y protocolos; [`proceso.md`](proceso.md) para el proceso.
-- **Diagramas.** [`diagramas/03-proceso.drawio`](diagramas/03-proceso.drawio) y [`diagramas/04-protocolos.drawio`](diagramas/04-protocolos.drawio).
+- **Diagramas.** [`diagramas/03-proceso.drawio`](diagramas/03-proceso.drawio) y [`diagramas/04-protocolos.drawio`](diagramas/04-protocolos.drawio); la página 9 de este último resume el awareness de protocolo (`Rol`, `PlaceAction`, `Expectations`) declarado en [`oficina.md`](oficina.md) §4.
 - **Mutaciones.** No se declaran: todos los roles son personas distintas.
 - **Fuera de Oficina.** El proyecto educativo sigue en el paso 3; su `roles.md` es el siguiente trabajo.

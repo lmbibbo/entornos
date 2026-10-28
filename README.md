@@ -53,7 +53,7 @@ plantilla que se copia a `<proyecto>/roles.md` en el paso 4.
 
 | Proyecto | Dominio | Spec | Estado |
 | :--- | :--- | :--- | :--- |
-| [`oficina/`](oficina/) | Agencia creativa | [`oficina.md`](oficina/oficina.md) · [`roles.md`](oficina/roles.md) · [`proceso.md`](oficina/proceso.md) | Pasos 1–7 completos: 4 workspaces, 8 sesiones, 20 herramientas declaradas (15 únicas), 9 roles, 77 operaciones atómicas, 12 objetos, 26 declaraciones de awareness, 15 transiciones `PR-` y 50 `PT-`. |
+| [`oficina/`](oficina/) | Agencia creativa | [`oficina.md`](oficina/oficina.md) · [`roles.md`](oficina/roles.md) · [`proceso.md`](oficina/proceso.md) | Pasos 1–7 completos: 4 workspaces, 8 sesiones, 20 herramientas declaradas (15 únicas), 9 roles, 77 operaciones atómicas, 12 objetos, 28 declaraciones de awareness, 15 transiciones `PR-` y 50 `PT-`. |
 | [`proyecto-educativo/`](proyecto-educativo/) | Institución educativa | [`educativo.md`](proyecto-educativo/educativo.md) | Parcial: 4 workspaces, 8 sesiones, 15 herramientas; falta `roles.md` (paso 4) y awareness (paso 5). |
 
 Cada archivo cubre una capa: `oficina.md` describe espacios y sesiones; `roles.md` es la
@@ -66,10 +66,10 @@ del proceso y explica qué operación de qué rol dispara cada transición.
 
 | Archivo | Contenido | Páginas |
 | :--- | :--- | :--- |
-| `oficina/diagramas/01-mapa-workspaces.drawio` | Mapa por espacios (Oficina): 4 columnas con sesiones, herramientas y objetos, una por workspace. | 1 |
-| `oficina/diagramas/02-actividades.drawio` | Una página por actividad (Oficina): workspace, herramientas, actividad con protocolo y objetos, y roles con multiplicidad sobre la capa punteada de awareness. | 8 |
-| `oficina/diagramas/03-proceso.drawio` | Proceso colaborativo (Oficina): 8 actividades, 3 decisiones, inicio y fin, con las 15 transiciones `PR-` y los retornos punteados; página 2 con la tabla de referencia `PR` · rol → objeto — operación. | 2 |
-| `oficina/diagramas/04-protocolos.drawio` | Protocolo por actividad (Oficina): una página por actividad con estados `(Rol) Herramienta->operación()`, decisión de retorno y las 50 transiciones `PT-`. | 8 |
+| `oficina/diagramas/01-mapa-workspaces.drawio` | Mapa por espacios (Oficina): 4 columnas con sesiones, herramientas y objetos, una por workspace, con el awareness de espacio en la cabecera. | 1 |
+| `oficina/diagramas/02-actividades.drawio` | Una página por actividad (Oficina): workspace, herramientas, actividad con protocolo y objetos, roles con multiplicidad y callouts de awareness de espacio, sesión y artefacto; los de artefacto muestran la herramienta que lo opera y el artefacto. | 8 |
+| `oficina/diagramas/03-proceso.drawio` | Proceso colaborativo (Oficina): 8 actividades, 3 decisiones, inicio y fin, con las 15 transiciones `PR-`, los retornos punteados y el panel de awareness de proceso; página 2 con la tabla de referencia `PR` · rol → objeto — operación. | 2 |
+| `oficina/diagramas/04-protocolos.drawio` | Protocolo por actividad (Oficina): una página por actividad con estados `(Rol) Herramienta->operación()`, decisión de retorno y las 50 transiciones `PT-`; página 9 de referencia del awareness de protocolo. | 9 |
 | `proyecto-educativo/diagramas/workspaces-diagrama.drawio` | Mapa por espacios: cada workspace en una columna, con sesiones, herramientas y objetos. | 1 |
 | `proyecto-educativo/diagramas/actividades-cssl.drawio` | Una página por actividad: herramientas arriba, roles abajo y relaciones como flechas. | 3 |
 
@@ -79,7 +79,9 @@ Se abren en [app.diagrams.net](https://app.diagrams.net) o con la app de escrito
 Las ocho actividades de `oficina/diagramas/02-actividades.drawio` siguen la plantilla
 [`actividad-template.drawio`](actividad-template.drawio): workspace como círculo,
 herramientas en verde, actividad como caja con protocolo y objetos, roles en azul con
-multiplicidad `1` y una capa punteada de awareness que envuelve la escena.
+multiplicidad `1` y callouts punteados de awareness (espacio, sesión y artefacto)
+alrededor de la escena, cada uno con su pregunta, ubicación y fuente; los de artefacto
+agregan la herramienta que lo opera y el artefacto concreto.
 
 Los diagramas de proceso y protocolo usan las plantillas `Proceso - Base.svg` y
 `Protocolo - Base.svg`: actividades verdes con inicio, fin y decisiones en el proceso;

@@ -183,6 +183,57 @@
         <mxCell id="leg_dashed_t" value="Retorno" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1392" y="841" width="56" height="16" as="geometry" />
         </mxCell>
+        <mxCell id="awp0" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="650" width="880" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="awp0h" value="AWARENESS · PROCESO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="658" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="awp0s" value="Las tres señales que el proceso expone al grupo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=8.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="250" y="658" width="400" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="awp0l1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354" y="672" width="1" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="awp0l2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0D0D0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="644" y="672" width="1" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="awp1e" value="UserHistory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="672" width="268" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="awp1q" value="¿Qué actividades completó ya el pedido?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="72" y="688" width="268" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="awp1m" value="Se muestra: Línea de tiempo del pedido en el panel de proceso" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="72" y="716" width="268" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="awp1f" value="Fuente: Historial de transiciones PR- (proceso.md §3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="72" y="730" width="268" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="awp2e" value="Expectations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="672" width="268" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="awp2q" value="¿Qué actividad sigue y qué se espera del rol?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="362" y="688" width="268" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="awp2m" value="Se muestra: Indicador «próximo paso» en el panel del pedido" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="362" y="716" width="268" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="awp2f" value="Fuente: Estado del proceso y guardas de proceso.md §3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="362" y="730" width="268" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="awp3e" value="ActivityLevel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="672" width="268" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="awp3q" value="¿Dónde está el cuello de botella del proceso?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="652" y="688" width="268" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="awp3m" value="Se muestra: Mapa de calor por actividad en el tablero de proceso" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="652" y="716" width="268" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="awp3f" value="Fuente: Tiempo en estado y transiciones PR-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="652" y="730" width="268" height="12" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

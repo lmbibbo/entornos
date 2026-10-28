@@ -112,7 +112,7 @@
           <mxGeometry relative="1" as="geometry">
           </mxGeometry>
         </mxCell>
-        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.1 · protocolo 1 de 8" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.1 · protocolo 1 de 8 · awareness: página 9" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="48" y="840" width="940" height="16" as="geometry" />
         </mxCell>
         <mxCell id="legend" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ECEEF0;strokeColor=#3A3A3A;strokeWidth=1;" vertex="1" parent="1">
@@ -264,7 +264,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.2 · protocolo 2 de 8" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.2 · protocolo 2 de 8 · awareness: página 9" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="48" y="840" width="940" height="16" as="geometry" />
         </mxCell>
         <mxCell id="legend" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ECEEF0;strokeColor=#3A3A3A;strokeWidth=1;" vertex="1" parent="1">
@@ -408,7 +408,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.3 · protocolo 3 de 8" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.3 · protocolo 3 de 8 · awareness: página 9" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="48" y="840" width="940" height="16" as="geometry" />
         </mxCell>
         <mxCell id="legend" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ECEEF0;strokeColor=#3A3A3A;strokeWidth=1;" vertex="1" parent="1">
@@ -552,7 +552,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.4 · protocolo 4 de 8" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.4 · protocolo 4 de 8 · awareness: página 9" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="48" y="840" width="940" height="16" as="geometry" />
         </mxCell>
         <mxCell id="legend" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ECEEF0;strokeColor=#3A3A3A;strokeWidth=1;" vertex="1" parent="1">
@@ -696,7 +696,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.5 · protocolo 5 de 8" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.5 · protocolo 5 de 8 · awareness: página 9" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="48" y="840" width="940" height="16" as="geometry" />
         </mxCell>
         <mxCell id="legend" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ECEEF0;strokeColor=#3A3A3A;strokeWidth=1;" vertex="1" parent="1">
@@ -840,7 +840,7 @@
           <mxGeometry relative="1" as="geometry">
           </mxGeometry>
         </mxCell>
-        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.6 · protocolo 6 de 8" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.6 · protocolo 6 de 8 · awareness: página 9" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="48" y="840" width="940" height="16" as="geometry" />
         </mxCell>
         <mxCell id="legend" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ECEEF0;strokeColor=#3A3A3A;strokeWidth=1;" vertex="1" parent="1">
@@ -984,7 +984,7 @@
           <mxGeometry relative="1" as="geometry">
           </mxGeometry>
         </mxCell>
-        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.7 · protocolo 7 de 8" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.7 · protocolo 7 de 8 · awareness: página 9" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="48" y="840" width="940" height="16" as="geometry" />
         </mxCell>
         <mxCell id="legend" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ECEEF0;strokeColor=#3A3A3A;strokeWidth=1;" vertex="1" parent="1">
@@ -1128,7 +1128,7 @@
           <mxGeometry relative="1" as="geometry">
           </mxGeometry>
         </mxCell>
-        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.8 · protocolo 8 de 8" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="footer" value="Notación: (Rol) Herramienta-&gt;operación() · Fuente: roles.md §6.8 · protocolo 8 de 8 · awareness: página 9" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="48" y="840" width="940" height="16" as="geometry" />
         </mxCell>
         <mxCell id="legend" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;fillColor=#ECEEF0;strokeColor=#3A3A3A;strokeWidth=1;" vertex="1" parent="1">
@@ -1169,6 +1169,98 @@
         </mxCell>
         <mxCell id="leg_dashed_t" value="Transición" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#4A4A4A;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1294" y="841" width="56" height="16" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pt-awareness" name="Awareness del protocolo">
+    <mxGraphModel dx="1600" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg" value="" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;fillColor=#F5F6F7;strokeColor=#3A3A3A;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="24" y="24" width="1552" height="782" as="geometry" />
+        </mxCell>
+        <mxCell id="frame" value="" style="rounded=0;arcSize=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#8C8C8C;strokeWidth=1.1;dashed=1;dashPattern=7 5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="92" width="1520" height="704" as="geometry" />
+        </mxCell>
+        <mxCell id="title" value="Oficina · Awareness del protocolo" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#1F1F1F;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="48" y="38" width="900" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="3 declaraciones transversales a los 8 protocolos · nivel sesión · oficina.md §4" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9.5;fontColor=#6B6B6B;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="48" y="60" width="1000" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="kicker" value="CSSL · awareness de protocolo" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#8C8C8C;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="40" width="552" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="aw1" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="420" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="aw1h" value="AWARENESS · PROTOCOLO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="224" width="280" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aw1e" value="Rol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=13;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="242" width="392" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aw1q" value="¿En qué paso del protocolo está cada participante y con qué rol?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10.5;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="114" y="270" width="392" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="aw1m" value="Se muestra: Badge de rol y paso actual en la barra de la sesión" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="114" y="322" width="392" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aw1f" value="Fuente: Estado del protocolo PT- (roles.md §6)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="114" y="370" width="392" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aw1l" value="Nivel: sesión" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=8.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="114" y="494" width="180" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="aw2" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="590" y="210" width="420" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="aw2h" value="AWARENESS · PROTOCOLO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="604" y="224" width="280" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aw2e" value="PlaceAction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=13;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="604" y="242" width="392" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aw2q" value="¿Qué operación está habilitada ahora en esta sesión?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10.5;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="604" y="270" width="392" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="aw2m" value="Se muestra: Resaltado del control habilitado en la herramienta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="604" y="322" width="392" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aw2f" value="Fuente: Estado del protocolo y permisos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="604" y="370" width="392" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aw2l" value="Nivel: sesión" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=8.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="604" y="494" width="180" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="aw3" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="210" width="420" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="aw3h" value="AWARENESS · PROTOCOLO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="224" width="280" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aw3e" value="Expectations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=13;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="242" width="392" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aw3q" value="¿Qué se espera de mí en este paso?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10.5;fontColor=#333333;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="270" width="392" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="aw3m" value="Se muestra: Indicador «te toca» en la lista de participantes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="322" width="392" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aw3f" value="Fuente: Estado del protocolo y rol activo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="370" width="392" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aw3l" value="Nivel: sesión" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=8.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="494" width="180" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="awnote" value="Estas tres señales aplican a los 8 protocolos: cambian con el paso y el rol activo, no con el elemento de awareness. Se muestran en la barra de sesión; esta página las reúne como referencia." style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9;fontColor=#5A5A5A;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="100" y="580" width="1400" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="footer" value="Fuente: oficina.md §4 · roles.md §6 · awareness.md §2 · página de referencia; no reemplaza la declaración completa" style="text;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#8C8C8C;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="48" y="840" width="940" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
