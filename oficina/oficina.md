@@ -107,6 +107,11 @@ El awareness de nivel artefacto se ancla a la herramienta concreta que opera ese
 artefacto: cada fila de artefacto declara `Herramienta` y `Artefacto`, y esa pareja debe
 existir en la matriz de operaciones de [`roles.md`](roles.md) §3. Las filas de espacio,
 sesión, proceso y protocolo no se anclan a un artefacto y llevan `—`.
+En [`diagramas/02-actividades.drawio`](diagramas/02-actividades.drawio) el callout de
+artefacto traza su conector hasta la tarjeta de esa herramienta; los de espacio y sesión
+siguen apuntando al workspace y a la actividad. La plantilla
+[`../actividad-awareness-template.drawio`](../actividad-awareness-template.drawio) muestra
+además el awareness de herramienta, que apunta directamente a la tarjeta de la herramienta.
 
 ### 4.1 Declaración
 

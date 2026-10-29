@@ -194,13 +194,13 @@
         <mxCell id="awc63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=8.0;fontColor=#4A4A4A;align=left;verticalAlign=middle;" value="Awareness" vertex="1">
           <mxGeometry height="16" width="66" x="1496" y="854" as="geometry" />
         </mxCell>
-        <mxCell id="awc64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9.0;fontColor=#8C8C8C;align=left;verticalAlign=middle;" value="Fuente: awareness.md · oficina.md · notación de «Estructura Entorno- Base»" vertex="1">
+        <mxCell id="awc64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=9.0;fontColor=#8C8C8C;align=left;verticalAlign=middle;" value="Fuente: awareness.md · oficina.md · notación de «Estructura Entorno- Base» · los awareness de herramienta y artefacto apuntan a la tarjeta de la herramienta" vertex="1">
           <mxGeometry height="16" width="780" x="48" y="842" as="geometry" />
         </mxCell>
         <mxCell id="awc65" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
           <mxGeometry x="1160.0" y="133.0" width="340.0" height="72.0" as="geometry" />
         </mxCell>
-        <mxCell id="awc66" value="AWARENESS · SESIÓN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="awc66" value="AWARENESS · HERRAMIENTA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=7.5;fontColor=#6E6E6E;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1170.0" y="141.0" width="320.0" height="10.0" as="geometry" />
         </mxCell>
         <mxCell id="awc67" value="Presence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=10;fontColor=#262626;align=left;verticalAlign=middle;fontStyle=1;" vertex="1" parent="1">
@@ -230,8 +230,14 @@
         <mxCell id="awc75" value="Se muestra: cursores con nombre sobre el lienzo." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=8;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
           <mxGeometry x="1170.0" y="472.0" width="320.0" height="12.0" as="geometry" />
         </mxCell>
-        <mxCell id="awc76" edge="1" parent="1" source="awc71" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0000;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.8316;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="awc21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="awc76" edge="1" parent="1" source="awc71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0000;exitDx=0;exitDy=0;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;exitX=0.0000;exitY=0.5000;entryX=0.9000;entryY=1.0000;" target="awc9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="458" />
+              <mxPoint x="1140" y="250" />
+              <mxPoint x="613.6" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="awc77" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#8C8C8C;strokeWidth=0.8;dashed=1;dashPattern=3 2;fontFamily=Arial;fontSize=9;fontColor=#333333;align=left;verticalAlign=top;spacingLeft=10;spacingRight=8;spacingTop=6;" vertex="1" parent="1">
           <mxGeometry x="100.0" y="545.0" width="340.0" height="72.0" as="geometry" />
@@ -265,6 +271,9 @@
         </mxCell>
         <mxCell id="awc87" value="Se muestra: estado junto al avatar." style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=8;fontColor=#7F7F7F;align=left;verticalAlign=middle;fontStyle=2;" vertex="1" parent="1">
           <mxGeometry x="1170.0" y="556.0" width="320.0" height="12.0" as="geometry" />
+        </mxCell>
+        <mxCell id="awc88" edge="1" parent="1" source="awc83" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=1;endSize=6;strokeColor=#8C8C8C;strokeWidth=1.0000;exitX=0.0000;exitY=0.5000;exitDx=0;exitDy=0;entryX=1.0000;entryY=0.8316;entryDx=0;entryDy=0;dashed=1;dashPattern=3 2;" target="awc21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

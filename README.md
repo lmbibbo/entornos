@@ -15,6 +15,7 @@ entornos/
 ├─ agents.md                     # metamodelo CSSL y algoritmo de diseño
 ├─ awareness.md                  # catálogo de elementos de awareness (estándar)
 ├─ actividad-template.drawio      # plantilla de una página de actividad
+├─ actividad-awareness-template.drawio  # plantilla de los cuatro callouts de awareness
 ├─ roles-template.md              # plantilla del paso 4: roles y operaciones
 ├─ oficina/                      # proyecto: agencia creativa
 │  ├─ oficina.md                 # spec con 4 workspaces completos
@@ -67,7 +68,7 @@ del proceso y explica qué operación de qué rol dispara cada transición.
 | Archivo | Contenido | Páginas |
 | :--- | :--- | :--- |
 | `oficina/diagramas/01-mapa-workspaces.drawio` | Mapa por espacios (Oficina): 4 columnas con sesiones, herramientas y objetos, una por workspace, con el awareness de espacio en la cabecera. | 1 |
-| `oficina/diagramas/02-actividades.drawio` | Una página por actividad (Oficina): workspace, herramientas, actividad con protocolo y objetos, roles con multiplicidad y callouts de awareness de espacio, sesión y artefacto; los de artefacto muestran la herramienta que lo opera y el artefacto. | 8 |
+| `oficina/diagramas/02-actividades.drawio` | Una página por actividad (Oficina): workspace, herramientas, actividad con protocolo y objetos, roles con multiplicidad y callouts de awareness de espacio, sesión y artefacto; los de artefacto muestran la herramienta que lo opera y el artefacto, y su conector termina en la tarjeta de esa herramienta. | 8 |
 | `oficina/diagramas/03-proceso.drawio` | Proceso colaborativo (Oficina): 8 actividades, 3 decisiones, inicio y fin, con las 15 transiciones `PR-`, los retornos punteados y el panel de awareness de proceso; página 2 con la tabla de referencia `PR` · rol → objeto — operación. | 2 |
 | `oficina/diagramas/04-protocolos.drawio` | Protocolo por actividad (Oficina): una página por actividad con estados `(Rol) Herramienta->operación()`, decisión de retorno y las 50 transiciones `PT-`; página 9 de referencia del awareness de protocolo. | 9 |
 | `proyecto-educativo/diagramas/workspaces-diagrama.drawio` | Mapa por espacios: cada workspace en una columna, con sesiones, herramientas y objetos. | 1 |
@@ -81,7 +82,11 @@ Las ocho actividades de `oficina/diagramas/02-actividades.drawio` siguen la plan
 herramientas en verde, actividad como caja con protocolo y objetos, roles en azul con
 multiplicidad `1` y callouts punteados de awareness (espacio, sesión y artefacto)
 alrededor de la escena, cada uno con su pregunta, ubicación y fuente; los de artefacto
-agregan la herramienta que lo opera y el artefacto concreto.
+agregan la herramienta que lo opera y el artefacto concreto, y su conector se traza
+hasta la tarjeta de esa herramienta, no hasta la actividad. Los de herramienta apuntan
+directamente a la tarjeta de la herramienta. La plantilla
+[`actividad-awareness-template.drawio`](actividad-awareness-template.drawio) muestra las
+cuatro variantes (espacio, herramienta, artefacto y sesión) con esa misma regla.
 
 Los diagramas de proceso y protocolo usan las plantillas `Proceso - Base.svg` y
 `Protocolo - Base.svg`: actividades verdes con inicio, fin y decisiones en el proceso;
